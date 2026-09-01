@@ -1,4 +1,3 @@
-
 # DSA Grind 🚀
 
 ## Progress Log
@@ -13,4 +12,5 @@
 | 006 | Reverse String (LC 344)                   | Easy       | Array     | Two Pointers                      | 2026-08-31 |
 | 007 | Best Time to Buy and Sell Stock (LC 121)  | Easy       | Array     | Track Minimum + Maximum Profit    | 2026-08-31 |
 | 008 | Maximum Subarray (LC 53)                  | Easy       | Array     | Kadane's Algorithm                | 2026-09-01 |
+| 009 | Contains Duplicate (LC 217)               | Easy       | Array     | HashSet - Track Seen Elements     | 2026-09-01 |
 
