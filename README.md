@@ -14,3 +14,4 @@
 | 008 | Maximum Subarray (LC 53)                 | Easy       | Array     | Kadane's Algorithm                   | 2026-09-01 |
 | 009 | Contains Duplicate (LC 217)              | Easy       | Array     | HashSet - Track Seen Elements        | 2026-09-01 |
 | 010 | Valid Anagram (LC 242)                   | Easy       | String    | Frequency Array + Character Indexing | 2026-09-02 |
+| 011 | Array Partition (LC 561)                 | Easy       | Array     | Sorting + Greedy                     | 2026-09-02 |
