@@ -22,3 +22,4 @@
 | 016 | Add Digits (LC 258)                            | Easy       | Math / Loops     | Digit Extraction + Iterative Reduction     | 2026-09-07 |
 | 017 | Longest Common Prefix (LC 14)                  | Easy       | Strings          | Shortest String + Character Comparison     | 2026-09-08 |
 | 018 | Maximum Number of Words You Can Type (LC 1935) | Easy       | Brute Force      | Nested Loops - Character Comparison        | 2026-09-09 |
+| 019 | Remove Duplicates from Sorted Array (LC 26)    | Easy       | Array            | Two Pointers - In-place Overwrite (k = write index) | 2026-10-24 |
