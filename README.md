@@ -24,3 +24,4 @@
 | 018 | Maximum Number of Words You Can Type (LC 1935) | Easy       | Brute Force      | Nested Loops - Character Comparison        | 2026-09-09 |
 | 019 | Remove Duplicates from Sorted Array (LC 26)    | Easy       | Array            | Two Pointers - In-place Overwrite (k = write index) | 2026-10-24 |
 | 020 | Two Sum II - Input Array Is Sorted (LC 167)    | Medium     | Array            | Two Pointers - Left/Right Ends (Brute Force also included) | 2026-10-24 |
+| 021 | Move Zeroes (LC 283)                           | Easy       | Array            | Two Pointers - k = Next Non-zero Slot, Swap | 2026-10-25 |
