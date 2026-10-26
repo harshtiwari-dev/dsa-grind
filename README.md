@@ -26,3 +26,4 @@
 | 020 | Two Sum II - Input Array Is Sorted (LC 167)    | Medium     | Array            | Two Pointers - Left/Right Ends (Brute Force also included) | 2026-10-24 |
 | 021 | Move Zeroes (LC 283)                           | Easy       | Array            | Two Pointers - k = Next Non-zero Slot, Swap | 2026-10-25 |
 | 022 | Backspace String Compare (LC 844)              | Easy       | Strings          | StringBuilder Simulation - Append / Delete on '#' | 2026-10-25 |
+| 023 | First Unique Character in a String (LC 387) | Easy | Hashing | int[26] frequency array: pehle count, phir string pe first count==1 ka index | 2026-10-26 |
