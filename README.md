@@ -1,4 +1,3 @@
-
 # DSA Grind 🚀
 
 ## Progress Log
@@ -33,3 +32,4 @@
 | 026 | Missing Number (LC 268) | Easy | Array / Math | HashSet + Optimized Mathematical Sum - Expected Sum minus Actual Sum | 2026-10-28 |
 | 027 | Find the Duplicate Number (LC 287) | Medium | Hashing | HashSet - Duplicate Detection using add() return value | 2026-10-28 |
 | 028 | Add Two Integers (LC 2235) | Easy | Math | Direct Addition using + Operator | 2026-10-29 |
+| 029 | Valid Parentheses (LC 20) | Easy | Stack | LIFO - Push, Peek, Pop + Matching Brackets | 2026-10-30 |
