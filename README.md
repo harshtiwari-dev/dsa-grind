@@ -34,3 +34,4 @@
 | 028 | Add Two Integers (LC 2235) | Easy | Math | Direct Addition using + Operator | 2026-10-29 |
 | 029 | Valid Parentheses (LC 20) | Easy | Stack | LIFO - Push, Peek, Pop + Matching Brackets | 2026-10-30 |
 | 030 | Concatenation of Array (LC 1929) | Easy | Array | Array Traversal - Copy Elements into Both Halves | 2026-10-31 |
+| 031 | XOR Operation in an Array (LC 1486) | Easy | Bit Manipulation | Array Construction + Running XOR | 2026-11-01 |
