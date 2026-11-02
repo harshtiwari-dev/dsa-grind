@@ -31,6 +31,7 @@
 | 025 | Find Numbers with Even Number of Digits (LC 1295) | Easy | Array / Math | Integer Division - Repeatedly Divide by 10 and Count Digits | 2026-10-27 |
 | 026 | Missing Number (LC 268) | Easy | Array / Math | HashSet + Optimized Mathematical Sum - Expected Sum minus Actual Sum | 2026-10-28 |
 | 027 | Find the Duplicate Number (LC 287) | Medium | Hashing | HashSet - Duplicate Detection using add() return value | 2026-10-28 |
+
 | 028 | Add Two Integers (LC 2235) | Easy | Math | Direct Addition using + Operator | 2026-10-29 |
 | 029 | Valid Parentheses (LC 20) | Easy | Stack | LIFO - Push, Peek, Pop + Matching Brackets | 2026-10-30 |
 | 030 | Concatenation of Array (LC 1929) | Easy | Array | Array Traversal - Copy Elements into Both Halves | 2026-10-31 |
