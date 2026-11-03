@@ -36,3 +36,4 @@
 | 030 | Concatenation of Array (LC 1929) | Easy | Array | Array Traversal - Copy Elements into Both Halves | 2026-10-31 |
 | 031 | XOR Operation in an Array (LC 1486) | Easy | Bit Manipulation | Array Construction + Running XOR | 2026-11-01 |
 | 032 | Unique Number of Occurrences (LC 1207) | Easy | Hashing | HashMap - Frequency Counting + HashSet - Duplicate Frequency Detection | 2026-11-02 |
+| 033 | Sort Array By Parity (LC 905) | Easy | Array | Two Pointers - Left/Right Partition + Swapping | 2026-11-03 |
